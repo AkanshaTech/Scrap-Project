@@ -2,7 +2,7 @@
 
 This is a Scrapy project to scrape quotes from famous people from http://quotes.toscrape.com/
 
-## # Extracted data
+##  Extracted data
 
 This project extracts quotes, combined with the respective author names and tags. The extracted data looks like this sample:
 
